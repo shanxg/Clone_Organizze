@@ -16,9 +16,12 @@
     <TextView
 
         android:id="@+id/intro2TitleText"
-        android:layout_width="300dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="TITULO TEXT2"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:text="Saiba para onde está \n indo seu dinheiro"
+        android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="18sp"
         android:textStyle="bold" />
@@ -26,9 +29,12 @@
     <TextView
 
         android:id="@+id/intro2DescText"
-        android:layout_width="250dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="DESCRIÇÃO TEXT2"
+        android:layout_marginLeft="32dp"
+        android:layout_marginRight="32dp"
+        android:text="Categorizando seus lançamentos e vendo o destino de cada centavo"
+        android:textAlignment="center"
         android:textColor="@android:color/darker_gray" />
 
 </LinearLayout>

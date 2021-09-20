@@ -18,7 +18,8 @@
         android:id="@+id/intro4TitleText"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
-        android:text="TITULO TEXT4"
+        android:text="Tudo organizado, no \n celular ou computador"
+        android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="18sp"
         android:textStyle="bold" />
@@ -28,7 +29,8 @@
         android:id="@+id/intro4DescText"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:text="DESCRIÇÃO TEXT4"
+        android:text="Use no seu smartphone e acessando o \n Organizze pelo site"
+        android:textAlignment="center"
         android:textColor="@android:color/darker_gray" />
 
 </LinearLayout>

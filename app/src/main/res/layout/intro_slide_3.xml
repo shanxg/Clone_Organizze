@@ -17,8 +17,9 @@
 
         android:id="@+id/intro3TitleText"
         android:layout_width="300dp"
-        android:layout_height="wrap_content"
-        android:text="TITULO TEXT3"
+        android:layout_height="47dp"
+        android:text="Nunca mais esqueça de \n pagar uma conta"
+        android:textAlignment="center"
         android:textColor="@android:color/black"
         android:textSize="18sp"
         android:textStyle="bold" />
@@ -28,7 +29,8 @@
         android:id="@+id/intro3DescText"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
-        android:text="DESCRIÇÃO TEXT3"
+        android:text="Receba alertas quando quiser"
+        android:textAlignment="center"
         android:textColor="@android:color/darker_gray" />
 
 </LinearLayout>

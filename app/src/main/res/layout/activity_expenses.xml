@@ -44,7 +44,7 @@
             android:importantForAutofill="no"
             android:inputType="numberDecimal"
             android:textAlignment="textEnd"
-            android:textColor="@android:color/white"
+            android:textColor="@android:color/black"
             android:textSize="30sp" />
     </LinearLayout>
     </LinearLayout>

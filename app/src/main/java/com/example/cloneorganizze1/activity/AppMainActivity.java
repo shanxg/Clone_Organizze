@@ -92,7 +92,6 @@ public class AppMainActivity extends AppCompatActivity {
         recyclerMoves.setHasFixedSize(true);
         recyclerMoves.setAdapter(adapterMoves);
 
-
         FloatingActionButton fabIncome = findViewById(R.id.menu_receita);
         fabIncome.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -271,7 +270,7 @@ public class AppMainActivity extends AppCompatActivity {
         if(transSwiped.getType().equals("r")){
 
             userIncome = userIncome - transSwiped.getTransactionValue();
-            userRef.child("expenseTotal").setValue(userIncome);
+            userRef.child("incomeTotal").setValue(userIncome);
 
         }
 
@@ -281,8 +280,6 @@ public class AppMainActivity extends AppCompatActivity {
             userRef.child("expenseTotal").setValue(userExpense);
 
         }
-
-
     }
 
     public void deleteTransaction(final RecyclerView.ViewHolder viewHolder){
@@ -359,6 +356,9 @@ public class AppMainActivity extends AppCompatActivity {
 
 
     public void userSignOut(){
+
+        userRef.removeEventListener(userEventListener);
+        transRef.removeEventListener(transEventListener);
 
         userAuth.signOut();
         finish();
