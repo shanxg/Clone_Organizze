@@ -7,10 +7,19 @@ Also i left a video of the application presented by the professor, so you could 
 and what i presented. As you'll see throughout the apps i've created, i don't like to just copy and paste what the professor was asking, 
 everytime he showed something to make i would stop the video and start making the code with my own thoughts and solve every problem by own.
 
-<br/>
-<br/>
-
-https://user-images.githubusercontent.com/63316622/134112530-cac93d4f-49fc-4689-bb80-9f97c7996ff4.mp4 https://user-images.githubusercontent.com/63316622/134112587-69713380-74f5-4c99-b3fb-568ac9191986.mp4
+<br />
+<br />
 
 
+<div style="width:100%;height:0px;position:relative;padding-bottom:207.647%;">
+  <iframe src="https://streamable.com/e/qlvrpn?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;">
+  </iframe>
+</div>
+
+<br />
+
+<div style="width:100%;height:0px;position:relative;padding-bottom:67.708%;">
+  <iframe src="https://streamable.com/e/ry1h97?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;">
+  </iframe>
+</div>
 
