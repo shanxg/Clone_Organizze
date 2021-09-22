@@ -13,6 +13,8 @@
 >   - [Add an Income Transaction](https://github.com/shanxg/Clone_Organizze/blob/master/README.md#-adding-an-income-transaction-)
 >   - [Delete a Transaction](https://github.com/shanxg/Clone_Organizze/blob/master/README.md#-deleting-a-transaction-)
 >   - ### [Full video demonstration](https://github.com/shanxg/Clone_Organizze/blob/master/README.md#check-demonstration-videos)
+>   
+>   <br>
 
  <div align="center"> 
   
